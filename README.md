@@ -19,3 +19,6 @@ model = init_chat_model("gpt-5-nano")
 response = model.invoke("랭스미스가 무엇인지 한 문장으로 설명해줘.")
 print(f"답변: {response.content}")
 
+
+<img width="2558" height="1280" alt="image" src="https://github.com/user-attachments/assets/1389fba1-6946-4d7f-8925-caaf4902b769" />
+
